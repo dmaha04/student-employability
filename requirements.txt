@@ -1,0 +1,6 @@
+gradio
+numpy
+pandas
+pickle5  # (if using Python 3.7 or earlier, otherwise pickle is built-in)
+scikit-learn
+openpyxl  # Required for reading Excel files
